@@ -1,0 +1,66 @@
+<footer>
+    Press <kbd>Ctrl</kbd> + <kbd>K</kbd> to access commands.
+</footer>
+
+<ninja-keys
+placeholder="Search for Command"
+hideBreadcumbs
+>
+
+</ninja-keys>
+
+<script>
+    import "ninja-keys"
+
+    const ninja = document.querySelector("ninja-keys")
+
+    if(ninja != null){
+        ninja.data = [
+            {
+                id: "print",
+                title: "Print",
+                hotkey: "ctrl+P",
+                section: "Acciones",
+                handler: () => {
+                   window.print();
+                }
+            }
+
+        ]
+    }
+
+</script>
+
+<style>
+    @media print{
+        ninja-keys{
+            display: none !important;
+        }
+    }
+    footer{
+        background: #fdfdfd;
+        border-top: 1px solid #eee;
+        position:fixed;
+        bottom: 0px;
+        width: 100%;
+        padding-block: 16px;
+        text-align: center;
+
+    }
+
+    kbd{
+        background: #eee;
+        border-radius: 4px;
+        padding: 2px 4px;
+        font-size: 12px;
+    }
+
+    @media (max-width: 700px) {
+        footer{
+        display:none;
+
+        }
+    }
+
+
+</style>

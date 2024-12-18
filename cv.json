@@ -1,0 +1,251 @@
+{
+    "basics": {
+      "name": "Giovanni Alberto Salas Atondo",
+      "label": "Web Developer with 2+ years experience",
+      "image": "https://avatars.githubusercontent.com/u/56622385?s=400&u=c5980dc4cf62eb1e3d8d35a028e608fdd5f39318&v=4",
+      "email": "gioatondo7@gmail.com",
+      "phone": "(653) 133-8541",
+      "url": "https://johndoe.com",
+      "summary": "Graduated in Computer Engineering from the Autonomous University of Baja California, with 2 years of experience in web development. I have a passion for learning new technologies and staying up-to-date with industry trends. I enjoy creating solutions and solving problems. Additionally, I have a strong interest in electronics, particularly in repairing and manufacturing PCBs for audio applications.",
+      "location": {
+        "address": "2712 Broadway St",
+        "postalCode": "CA 94115",
+        "city": "San Luis Rio Colorado",
+        "countryCode": "US",
+        "region": "Sonora"
+      },
+      "profiles": [
+        {
+            "network": "GitHub",
+            "username": "GioAtondo",
+            "url": "https://github.com/GioAtondo"
+        },
+        {
+            "network": "LinkedIn",
+            "username": "GioAtondo",
+            "url": "https://www.linkedin.com/in/giovanni-alberto-salas-atondo-9a5a25247/"
+        }
+    ]
+    },
+    "work": [
+      {
+        "name": "Dilato Infotech",
+        "position": "QA Software Engineer",
+        "url": "https://company.com",
+        "startDate": "2024-10-07",
+        "endDate": null,
+        "summary": "QA Software Engineer for Dilato projects in collaboration with Yahoo, specializing in Globalization testing, including Internationalization (I18N) and Localization (L10N). Gained experience in ad-hoc testing, identifying critical issues related to user experience and functionality across multiple regions. Actively expanding skills to ensure software quality, compatibility, and seamless adaptation for diverse global markets.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Araiza Hotels",
+        "position": "Web Developer",
+        "url": "https://company.com",
+        "startDate": "2023-03-27",
+        "endDate": "2024-10-05",
+        "summary": "Developed websites for product and business management at Araiza Hotels, overseeing project management, database design, and error resolution. Created a survey platform for restaurants to enhance client experience, integrating data visualization tools. Contributed to a job-seeking platform, allowing admins to manage job postings and candidate communication, while users submit applications after account creation. Currently expanding skills in Laravel to migrate existing pages to a framework for improved management and efficiency.",
+        "highlights": [
+          "Started the company"
+        ]
+      },
+      {
+        "name": "Global Mechanical",
+        "position": "iOS Developer",
+        "url": "https://company.com",
+        "startDate": "2022-08-01",
+        "endDate": "2022-12-10",
+        "summary": "Participated creating UI components to enhance user experience within a project administration application, focusing on managing project costs, timelines, and remaining time allocations.",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+  ],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "(UABC) Autonomous University of Baja California",
+      "url": "https://institution.com/",
+      "area": "Bachelor of Computer Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2018-06-01",
+      "endDate": "2022-06-01",
+      "score": "4.0",
+      "courses": [
+        "CENEVAL exam accredited"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+      "name": "Laravel",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+      },
+      {
+        "name": "Astro",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "PHP",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "HTML",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Javascript",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "C#",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      },
+      {
+        "name": "Bootstrap",
+        "level": "Master",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ]
+      }
+    ],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "Smart Solution",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Developed a website for a company called Smart Solution Services, which specializes in industrial air conditioning installations and offers additional professional services.",
+        "highlights": [
+          "Services for manufacturing plants"
+        ],
+        "url": "https://smartsolution.services",
+        "isActive": 1
+      },
+      {
+      "name": "Araiza Wi-Fi satisfaction survey",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "I helped develop a Wi-Fi satisfaction survey platform for guests at Araiza Hotels to enhance the overall customer experience. The platform includes an administrative portal with interactive charts and real-time status tracking for each survey, enabling hotel management to efficiently analyze feedback and make data-driven decisions to improve their services.",
+      "highlights": [
+        "Wi-Fi satisfaction survey"
+      ],
+      "url": "https://araizasistemas.com/plataa/encuestas_wifi/araiza/encuesta.php",
+      "isActive": 1 
+      },
+      {
+      "name": "Mi empleo Araiza",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Contribution to the MiEmpleo Araiza website, which serves as a platform for job seekers within the 5 Araiza hotels. The website features both user and administrator interfaces to facilitate the management of job applications and maintain oversight over vacancies. This project was developed entirely using vanilla HTML, CSS, JavaScript, and PHP.",
+      "highlights": [
+        "Job Seeking Website"
+      ],
+      "url": "https://miempleoaraiza.com",
+      "isActive": 1
+      },
+      {
+        "name": "Daydream Pedals",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "Established and launched Daydream Pedals, a personal project where I design, manufacture, and sell guitar pedals as both a hobby and a business venture. Initiated by researching pedal functionality and employing reverse engineering techniques to enhance existing pedal designs. Currently, I specialize in PCB design, soldering, drilling, and painting to create unique pedals. Successfully marketed numerous pedals to local bands, demonstrating a passion for electronics repair and pedal creation",
+        "highlights": [
+          "Guitar Pedal Company"
+        ],
+        "url": "https://www.instagram.com/daydreampedals/",
+        "isActive": 1
+      }
+  ]
+  }
