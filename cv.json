@@ -43,7 +43,7 @@
         "name": "Araiza Hotels",
         "position": "Web Developer",
         "url": "https://company.com",
-        "startDate": "2023-03-27",
+        "startDate": "2022-03-27",
         "endDate": "2024-10-05",
         "summary": "Developed websites for product and business management at Araiza Hotels, overseeing project management, database design, and error resolution. Created a survey platform for restaurants to enhance client experience, integrating data visualization tools. Contributed to a job-seeking platform, allowing admins to manage job postings and candidate communication, while users submit applications after account creation. Currently expanding skills in Laravel to migrate existing pages to a framework for improved management and efficiency.",
         "highlights": [
@@ -214,6 +214,28 @@
         "url": "https://smartsolution.services",
         "isActive": 1
       },
+      {
+        "name": "Araiza Green Survey",
+        "startDate": "2019-01-01",
+        "endDate": "2021-01-01",
+        "description": "This program was created for guests at Araiza Hotels, rewarding those who opt out of daily room cleaning by granting them Diamond points for each day full cleaning is not required in their room. It is an inspiring initiative by Araiza Hotels, designed to make a meaningful impact on the environment. The program is committed to reducing excessive water and detergent use in the hospitality industry, thereby protecting our valuable natural resources.",
+        "highlights": [
+          "Araiza Hotels survey"
+        ],
+        "url": "https://araizadiamante.com/araiza_green/",
+        "isActive": 1 
+        },
+        {
+          "name": "Araiza Restaurant satisfaction survey",
+          "startDate": "2019-01-01",
+          "endDate": "2021-01-01",
+          "description": "I developed satisfaction surveys for all the restaurants across the five Araiza Hotels, along with an administrative dashboard to manage and visualize results through interactive charts and filters by date. This app helps hotel management gather valuable feedback, identify areas for improvement, and enhance the overall dining experience for guests.",
+          "highlights": [
+            "Araiza Hotels survey"
+          ],
+          "url": "https://araizasistemas.com/encuestas/araiza/encuestas_araiza.php?idioma=2&id=2",
+          "isActive": 1 
+          },
       {
       "name": "Araiza Wi-Fi satisfaction survey",
       "startDate": "2019-01-01",
